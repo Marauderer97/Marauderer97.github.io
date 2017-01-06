@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"Home": "http://loklak.org/index.html"},
+    {"About": "http://loklak.org/about.html"},
+    {"Blog": "http://blog.loklak.net/"},
+    {"API": "http://loklak.org/api.html"}
+  ]
+}
