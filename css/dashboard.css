@@ -63,8 +63,14 @@ ul.request {
 }
 .search input{
   width:450px;
+<<<<<<< HEAD
   height: 40px;
   padding:8px;
+=======
+  height: 45px;
+  padding:8px;
+  bo
+>>>>>>> b47542ed73b112d3b81b55d738f3519a87de8386
 }
 .search input:focus {
   border-color: rgb(119,119,119);
@@ -162,6 +168,7 @@ body {
  * Hide default border to remove 1px line.
  */
 .navbar-fixed-top {
+<<<<<<< HEAD
   border: 0;
   padding: 15px;
 
@@ -176,6 +183,22 @@ body {
 
 .form-control{
 display:inline;
+=======
+  padding: 15px;
+  border-color: #999;
+}
+.navbar-header{
+}
+
+.input-group-btn{
+  display: inline;
+  margin: 0px;
+}
+
+.form-control{
+display:inline;
+border-radius: 0px;
+>>>>>>> b47542ed73b112d3b81b55d738f3519a87de8386
 }
 .input-group-btn:last-child>.btn{
   margin-left: -3px;
@@ -183,8 +206,13 @@ display:inline;
 .loklak-btn{
   background-color: #d81b60;
   color: white;
+<<<<<<< HEAD
   width: 40px;
   height: 40px;
+=======
+  width: 45px;
+  height: 45px;
+>>>>>>> b47542ed73b112d3b81b55d738f3519a87de8386
 }
 /*
  * Sidebar
