@@ -60,10 +60,17 @@ ul.request {
   position: absolute;
   top:18px;
   left:275px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: stretch;
+  align-items: stretch;
 }
 .search input{
   width:450px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 254dfa3f9f7ce10a68a388d80f34e95b3ef03995
   height: 45px;
   padding:8px;
 }
@@ -163,12 +170,9 @@ body {
  * Hide default border to remove 1px line.
  */
 .navbar-fixed-top {
-<<<<<<< HEAD
   border: 0;
   padding: 15px;
 
-}
-.navbar-header{
 }
 
 .input-group-btn{
@@ -178,11 +182,8 @@ body {
 
 .form-control{
 display:inline;
-=======
   padding: 15px;
   border-color: #999;
-}
-.navbar-header{
 }
 
 .input-group-btn{
