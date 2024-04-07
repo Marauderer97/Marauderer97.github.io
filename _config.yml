@@ -1,0 +1,32 @@
+title: Soumya Vadlamannati
+description:
+twitter_username:
+github_username: Marauderer97
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+author:
+  # name   : "Soumya Vadlamannati"
+  # avatar : "/assets/images/bio-photo.jpg"
+  bio    : "ML Engineer @ Bloomberg AI"
+  links:
+    - label: "soumya-vadlamannati"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/soumya-vadlamannati/"
+    - label: "Marauderer97"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Marauderer97"
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - .gitignore
+  - _config.yml
+
+atom_feed:
+  hide: true
