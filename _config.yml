@@ -18,6 +18,9 @@ author:
     - label: "Marauderer97"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marauderer97"
+    - label: "S. Vadlamannati"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=lt_-jFcAAAAJ"
 
 include:
   - _pages
